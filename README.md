@@ -1,2 +1,2 @@
 # bootcamp
- consensys bootcamp
+ consensys bootcamp repository
